@@ -1,0 +1,65 @@
+{
+  "height": 70,
+  "diameter": 12.2,
+  "mass_kg": 1420788,
+  "fs_engines": 27,
+  "fs_fuel_amount_tons": 1155,
+  "fs_burn_time_sec": 162,
+  "fs_thrust_sea_level": 22819,
+  "fs_thrust_vaccuum": 24681,
+  "ss_engines": 1,
+  "ss_fuel_amount_tons": 90,
+  "ss_burn_time_sec": 397,
+  "ss_thrust": 934,
+  "ss_payloads": "dragon",
+  "engines_type": "merlin",
+  "engines_number": 27,
+  "engines_fuel_1": "liquid oxygen",
+  "engines_fuel_2": "RP-1 kerosene",
+  "landing_legs_number": 12,
+  "landing_legs_material": "carbon fiber",
+  "payload_weights": [
+    {
+      "id": "leo",
+      "name": "Low Earth Orbit",
+      "kg": 63800,
+      "lb": 140660
+    },
+    {
+      "id": "gto",
+      "name": "Geosynchronous Transfer Orbit",
+      "kg": 26700,
+      "lb": 58860
+    },
+    {
+      "id": "mars",
+      "name": "Mars Orbit",
+      "kg": 16800,
+      "lb": 37040
+    },
+    {
+      "id": "pluto",
+      "name": "Pluto Orbit",
+      "kg": 3500,
+      "lb": 7720
+    }
+  ],
+  "images": [
+    "https://farm5.staticflickr.com/4599/38583829295_581f34dd84_b.jpg",
+    "https://farm5.staticflickr.com/4645/38583830575_3f0f7215e6_b.jpg",
+    "https://farm5.staticflickr.com/4696/40126460511_b15bf84c85_b.jpg",
+    "https://farm5.staticflickr.com/4711/40126461411_aabc643fd8_b.jpg"
+  ],
+  "name": "Falcon Heavy",
+  "type": "rocket",
+  "active": true,
+  "stages": 2,
+  "boosters": 2,
+  "cost_per_launch": 90000000,
+  "success_rate_pct": 100,
+  "first_flight": "2018-02-06",
+  "country": "United States",
+  "company": "SpaceX",
+  "wikipedia": "https://en.wikipedia.org/wiki/Falcon_Heavy",
+  "description": "With the ability to lift into orbit over 54 metric tons (119,000 lb)--a mass equivalent to a 737 jetliner loaded with passengers, crew, luggage and fuel--Falcon Heavy can lift more than twice the payload of the next closest operational vehicle, the Delta IV Heavy, at one-third the cost."
+}
