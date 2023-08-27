@@ -1,9 +1,21 @@
 # SpaceX API Explorer
 
 This is a simple PyQt6 application that allows users to explore data from the SpaceX API. The application provides information about SpaceX, such as company details and data on rocket launches, launchpads, missions, and more.
+**Please Note: This project is developed solely for a university project**
+
+## Table of Contents
+- [About SpaceX](#about-spacex)
+- [SpaceX API](#spacex-api)
+- [Application Features](#application-features)
+- [How to Use](#how-to-use)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [Disclaimer](#disclaimer)
 
 ## About SpaceX
 SpaceX is an aerospace manufacturer and space transportation company founded in 2002 by Elon Musk. The company designs, manufactures, and launches advanced rockets and spacecraft with the goal of revolutionizing space technology. SpaceX aims to enable people to live on other planets in the future.
+
+![ezgif com-gif-maker](https://github.com/mele13/SpaceX-API-Explorer/assets/87198060/7a8e589d-3638-423f-9af6-523aa7ba4bcb)
 
 ## SpaceX API
 The application uses the SpaceX API, an open-source REST API created and maintained by the developers of the r/SpaceX organization. The API provides data on rockets, cores, capsules, launch pads, and launches related to SpaceX missions.
@@ -29,10 +41,21 @@ To run this application, you need to have the following dependencies installed:
 - Pillow
 - PyQt6-WebEngine
 
-## Contributions and Issues
-The SpaceX API Explorer is an open-source project, and contributions are welcome. If you encounter any issues or have suggestions for improvements, please submit them on the GitHub repository.
+## Contributing
+Contributions to this project are welcome! If you have suggestions, find bugs, or want to add new features, please follow these steps:
 
-## Credits
-- PyQt6
-- SpaceX-API
-- r/SpaceX
+Fork the repository.
+Create a new branch: git checkout -b feature/your-feature-name
+Make your changes and test thoroughly.
+Commit your changes: git commit -m 'Add feature: your feature name'
+Push to the branch: git push origin feature/your-feature-name
+Create a pull request explaining your changes.
+
+Enjoy exploring the project!
+
+## Disclaimer
+This project is developed exclusively for educational purposes as part of a university project. 
+
+--------------------------------------------------
+
+Feel free to explore, learn, and have fun with this project! If you have any questions or suggestions, please open an issue on this repository.
